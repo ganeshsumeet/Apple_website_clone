@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(242, 233, 233);
+    header{
+        text-align:center;
+        word-spacing: 30px;
+        font-style: 100px;
+        font-size: small;
+        }
+    h1{
+        font-style: 30px;
+        color:black;
+        font-family: system-ui;
+        width: 500px;
+        font-style: 200px;
+    }
+    h4{
+        text-align: center;
+        background-color: white;
+    }
+    buttom{
+        border-collapse: collapse;
+    }
+} 
